@@ -5,4 +5,4 @@ Let's explore the world of generative models and implementation.
 - Foundational Large Language Model
 - Prompt Engineering Techniques
 - Vector Databases and Vector Search Algorithms
-- LLM Finetuning 
+- LLM Finetuning and Agents
